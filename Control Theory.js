@@ -730,4 +730,3 @@ var postPublish = () => {
   theory.invalidateTertiaryEquation();
   publicationCount++;
 }
-init();
